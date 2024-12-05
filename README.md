@@ -39,5 +39,5 @@
 ### Social Media
 I'm open to collaborations, discussions, and opportunities. Let's connect and explore possibilities:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/youssef-azzouz-7981b91ba)
-[![GitHub](https://img.shields.io/badge/GitHub-Repositories-black?style=for-the-badge&logo=github)](https://github.com/YoussefAzzouz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/youssef-azzouz-050499244)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositories-black?style=for-the-badge&logo=github)](https://github.com/YoussefAzzouzz)
